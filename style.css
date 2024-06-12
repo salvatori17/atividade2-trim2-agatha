@@ -1,0 +1,19 @@
+@media only screen and (min-width: 600px) {
+    body {background-color: bisque;
+     }
+     #imagem1 {width: 200px;}
+     #imagem2{width: 200px;}
+     .parte1{color: coral;}
+     .parte2{color: rgb(247, 182, 104);}
+     .parte3{color: rgb(255, 208, 146);}
+  }
+  @media only screen and (max-width: 600px) {
+    body {background-color: rgb(255, 194, 119);
+     }
+     #imagem1 {width: 100px;;}
+     #imagem2{width: 100px;}
+     .parte1{color: rgb(231, 138, 105);}
+     .parte2{color: rgb(243, 166, 73);}
+     .parte3{color: rgb(252, 125, 86);}
+
+  }
